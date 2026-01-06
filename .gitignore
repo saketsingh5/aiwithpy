@@ -2,3 +2,5 @@
 /requirement.txt
 /venv
 .env
+rag_queue/.env
+rag/.env
